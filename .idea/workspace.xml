@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24632dd5-f7e7-4ebc-876f-cfc060b6f1ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gof.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/BikeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/SUVCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/SedanCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/GetStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/StockGrabber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/StockObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stratergy/Fire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stratergy/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stratergy/MachineGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stratergy/Pistol.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Anoar4jDEjNlHxcxwEdnnwUSg4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.saveactions&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="decorator" />
+      <recent name="stratergy" />
+      <recent name="adapter" />
+      <recent name="factory" />
+      <recent name="singleton" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DecoratorTest.makeCar">
+    <configuration name="All in gof" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gof" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeAdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adapter" />
+      <option name="MAIN_CLASS_NAME" value="adapter.BikeAdapterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorTest.makeCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="decorator" />
+      <option name="MAIN_CLASS_NAME" value="decorator.DecoratorTest" />
+      <option name="METHOD_NAME" value="makeCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="factory" />
+      <option name="MAIN_CLASS_NAME" value="factory.FactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stratergy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stratergy" />
+      <option name="MAIN_CLASS_NAME" value="stratergy.GunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DecoratorTest.makeCar" />
+        <item itemvalue="JUnit.All in gof" />
+        <item itemvalue="JUnit.GunTest" />
+        <item itemvalue="JUnit.BikeAdapterTest" />
+        <item itemvalue="JUnit.FactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24632dd5-f7e7-4ebc-876f-cfc060b6f1ad" name="Changes" comment="" />
+      <created>1655654780124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655654780124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
